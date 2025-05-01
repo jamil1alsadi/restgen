@@ -1,4 +1,4 @@
-restgen
+find password restgen
 =======
 
 [![Build Status](https://travis-ci.org/doozer-de/restgen.svg?branch=master)](https://travis-ci.org/doozer-de/restgen)
