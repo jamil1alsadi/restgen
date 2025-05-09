@@ -102,6 +102,6 @@ Example
 
 You can find a sample protobuf definition in
 `samplesvc/pb/samplesvc.proto` and the generated code in
-`samplesvc/samplesvc_gen.go`.
+`samplesvc/samplesvc_gen.go`
 
 
